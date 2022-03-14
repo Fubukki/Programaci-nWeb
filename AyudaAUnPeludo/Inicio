@@ -16,10 +16,10 @@
         <h3> Salomé Balderas </h3>
         <h4> Redes sociales </h4>
         <br>
-        <img src="AyudaAUnPeludo/img/perros.jpg"> 
-        <a href="AyudaAUnPeludo/Caninos"> Registro de caninos en adopción </a>
-        <img src="AyudaAUnPeludo/img/gatos.jpg"> 
-        <a href="AyudaAUnPeludo/Felinos"> Registro de felinos en adopción </a>
+        <img src="img/perros.jpg"> 
+        <a href="AyudaAUnPeludo/Caninos/Caninos"> Registro de caninos en adopción </a>
+        <img src="img/gatos.jpg"> 
+        <a href="AyudaAUnPeludo/Felinos/Felinos"> Registro de felinos en adopción </a>
     </body>
     <footer>
     </footer>
