@@ -6,11 +6,11 @@
 <body>
 <h1>Grandes perros quieren grandes familias</h1>
 <p>Aquí encontraras varios Perros que nesecitan tú ayuda y apoyo para encontrar una familia </p>
-<img src="Imagenes/akita.jpg" width="250" height="250"> 
+<img src="AyudaAUnPeludo/akita.jpg" width="250" height="250"> 
 <a href="http://www.youtube.com" target="_blank">King</a>
-<img src="Imagenes/pug.jpg" width="250" height="250">
+<img src="AyudaAUnPeludo/pug.jpg" width="250" height="250">
 <a href="http://www.youtube.com" target="_blank">Big man</a>
-<img src="Imagenes/san bernardo.jpg" width="250" height="250"> 
+<img src="AyudaAUnPeludo/san bernardo.jpg" width="250" height="250"> 
 <a href="http://www.youtube.com" target="_blank">Prince</a>
 </body>
 </html>
