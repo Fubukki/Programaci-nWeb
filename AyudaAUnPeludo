@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title> Ayuda a un peludo </title>
+        <h1> <b> Ayuda a un peludo </b> </h1>
+        <h3> Bienvenido a la página web de "Ayuda a un peludo", somos una ONG que </h3>
+        <h3> trabaja en lograr la adopción de animales que viven en la calle </h3>
+    </head>
+    <body>
+        <h2> ¡Conocenos más! </h4>
+        <h3> Marcella Oquendo </h3>
+        <h4> Médica veterinaria </h4>
+        <h3> Ruth Tapia </h3>
+        <h4> Administración </h4>
+        <h3> Salomé Balderas </h3>
+        <h4> Redes sociales </h4>
+        <br>
+        <img src="img/perros.jpg"> 
+        <a href="Perros.html"> Registro de caninos en adopción </a>
+        <img src="img/gatos.jpg"> 
+        <a href=""> Registro de felinos en adopción </a>
+    </body>
+    <footer>
+    </footer>
+</html>
