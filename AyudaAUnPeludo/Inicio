@@ -17,9 +17,9 @@
         <h4> Redes sociales </h4>
         <br>
         <img src="AyudaAUnPeludo/img/perros.jpg"> 
-        <a href=""> Registro de caninos en adopción </a>
+        <a href="AyudaAUnPeludo/Caninos"> Registro de caninos en adopción </a>
         <img src="AyudaAUnPeludo/img/gatos.jpg"> 
-        <a href=""> Registro de felinos en adopción </a>
+        <a href="AyudaAUnPeludo/Felinos"> Registro de felinos en adopción </a>
     </body>
     <footer>
     </footer>
