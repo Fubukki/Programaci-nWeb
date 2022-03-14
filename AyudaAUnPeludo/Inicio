@@ -16,9 +16,9 @@
         <h3> Salomé Balderas </h3>
         <h4> Redes sociales </h4>
         <br>
-        <img src="AyudaAUnPeludo/perros.jpg"> 
-        <a href="Perros.html"> Registro de caninos en adopción </a>
-        <img src="AyudaAUnPeludo.jpg"> 
+        <img src="img/perros.jpg"> 
+        <a href=""> Registro de caninos en adopción </a>
+        <img src="img/gatos.jpg"> 
         <a href=""> Registro de felinos en adopción </a>
     </body>
     <footer>
