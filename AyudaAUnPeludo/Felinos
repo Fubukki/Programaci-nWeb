@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gatos</title>
+</head>
+<body>
+  <table border="1">
+    <thead> <!--ficha personal de gatos-->
+    <tr>
+        <td>
+            <img src="imagenes/gato-escocés-divertido-gris-mullido-141628617.jpg" alt="No"/>
+        </td>
+        <td>El fold escocés es un gato de tamaño mediano con un cuerpo firme y compacto,la característica más evidente del fold son sus orejas, que son pequeñas y están dobladas hacia adelante de tal modo que cubren la abertura de la oreja por completo
+            
+        </td>
+      
+
+
+
+    </tr>
+    <tr>
+        <td>
+            <img src="imagenes/nombres_para_gatos_sphynx_25748_600_square.jpg" alt="No"/>
+        </td>
+        <td>El gato sphynx es un gato de tamaño mediano con una apariencia muy llamativa por su ausencia de pelo, piel arrugada y largas orejas. Tiene un cuerpo liso y musculoso que es muy compacto y pesado para su tamaño.
+            
+        </td>
+      
+
+
+
+    </tr>
+    <tr>
+        <td>
+            <img src="imagenes/gatoleopardobengali-focus-min0.35-0.42-640-384.jpg" alt="No"/>
+        </td>
+        <td>El bengalí es una raza de gato doméstico desarrollada para parecerse a los felinos salvajes exóticos tales como son los leopardos, ocelotes, margays, etc.
+            
+        </td>
+      
+
+
+
+    </tr>
+</thead>
+<tr>
+
+
