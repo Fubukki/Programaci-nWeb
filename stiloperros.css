@@ -1,0 +1,46 @@
+body{
+    background-image: url(Imagenes/fondo\ perro.webp)
+}
+
+h1{
+    color:brown ;
+    background-color: whitesmoke;
+    border: 5px solid;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 36px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p{
+    color: brown;
+    text-align: center;
+    background-color: white;
+    border: solid 5px;
+    border-radius: 5px;
+    font-size: 23px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table{
+    border: #ccc;
+    margin: auto;
+}
+.image{
+    width: 300px;
+    border-radius: 5px;
+    border: 5px solid brown;
+    align-items: center;
+}
+
+.image:hover{
+    transform: scale(1.2);
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
